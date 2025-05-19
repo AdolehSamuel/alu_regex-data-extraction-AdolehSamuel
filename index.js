@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Regex patterns to find different types of data
 const emailPattern = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g;
 const urlPattern =
